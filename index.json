@@ -5,10 +5,10 @@
   "packages": {
     "com.moutaindw.favorite-yama-player": {
       "versions": {
-        "1.0.3": {
+        "1.0.4": {
           "name": "com.moutaindw.favorite-yama-player",
           "displayName": "Favorite Yama Player",
-          "version": "1.0.3",
+          "version": "1.0.4",
           "url": "https://ozakitak.github.io/favorite-yama-player/packages/com.moutaindw.favorite-yama-player-1.0.0.zip"
         }
       }
