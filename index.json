@@ -34,7 +34,14 @@
           "displayName": "Favorite Yama Player (Modified)",
           "version": "1.0.9",
           "url": "https://ozakitak.github.io/favorite-yama-player/packages/com.moutaindw.favorite-yama-player-1.0.9.zip"
-         }
+         },
+        "1.1.0": {
+        "name": "com.moutaindw.favorite-yama-player",
+        "displayName": "Favorite Yama Player (Modified)",
+        "version": "1.1.0",
+        "url": "https://ozakitak.github.io/favorite-yama-player/packages/com.moutaindw.favorite-yama-player-1.1.0.zip"
+}
+
       }
     }
   }
